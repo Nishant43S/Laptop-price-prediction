@@ -1,6 +1,6 @@
 # Laptop Price Prediction
 
-- app link - <a href"https://laptop-price-prediction-nishant-maity.streamlit.app/" target="_blank">Laptop price prediction</a>
+- app link - <a href="https://laptop-price-prediction-nishant-maity.streamlit.app/" target="_blank">Laptop price prediction</a>
 
 ## Overview
 The **Laptop Price Prediction** project aims to predict laptop prices based on various specifications such as processor, RAM, storage, and other features. This project utilizes machine learning models, including **Random Forest** and **XGBoost**, to make accurate price predictions. A **Streamlit** web application is developed to provide an interactive interface for users to input laptop specifications and get price predictions.
